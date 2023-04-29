@@ -1,7 +1,7 @@
  <span style="color:gray"> *Project developed for the course "Ouverture-IA"  by Artificial Intelligence Engineering students Maria Paula Roulet, Lauren Durivault and Mounish Badireddi.*</span>
 
 ## Introduction
-This `Multi Agent Puzzle` project is based on an American game called `"15 Puzzle"` or "Taquin" in french. The goal is to reorganize pieces j in grid nxn by exchanging the position of j by the position of the void until the puzzle is resolved. For this project, we decided to use `Python` to code the algorithm of the game and `Streamlit` to develop a simple [interface](https://mroulets-puzzlemultiagent-app-tv08ho.streamlit.app) to play deployed through to `Docker`.     <a href="https://mroulets-puzzlemultiagent-app-tv08ho.streamlit.app" target="_blank">Opens in new tab</a>
+This `Multi Agent Puzzle` project is based on an American game called `"15 Puzzle"` or "Taquin" in french. The goal is to reorganize pieces j in grid nxn by exchanging the position of j by the position of the void until the puzzle is resolved. For this project, we decided to use `Python` to code the algorithm of the game and `Streamlit` to develop a simple [interface](https://mroulets-puzzlemultiagent-app-tv08ho.streamlit.app) to play deployed through to `Docker`.
 
 
 ## Project Demo
