@@ -40,7 +40,6 @@ class Puzzle:
           
       
     def streamlitShowGrid():
-      
       dictThread = {}
       lsThread = []
       for rowGrid in Puzzle.grid:
